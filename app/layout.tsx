@@ -1,3 +1,4 @@
+import '@/app/ui/global.css'; //ya pueden usar todas las paginas el tailwind
 export default function RootLayout({
   children,
 }: {
@@ -9,4 +10,3 @@ export default function RootLayout({
     </html>
   );
 }
-//qw
